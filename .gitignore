@@ -1,0 +1,20 @@
+# Clases compiladas
+bin/
+*.class
+
+# Facturas generadas por la aplicación y las pruebas
+facturas/
+
+# Eclipse
+.metadata/
+.settings/
+.recommenders/
+
+# IntelliJ / VS Code
+.idea/
+*.iml
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
